@@ -1,0 +1,23 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cool-monsoon/ajs-homeworks-ESM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cool-monsoon/ajs-homeworks-ESM/issues"
+  },
+  "homepage": "https://github.com/cool-monsoon/ajs-homeworks-ESM#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
